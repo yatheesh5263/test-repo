@@ -1,2 +1,0 @@
-# test-repo
-exercise purpose
